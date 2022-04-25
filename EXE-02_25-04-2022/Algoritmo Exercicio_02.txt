@@ -1,0 +1,19 @@
+Algoritmo Exercicio_02
+   Digite o valor de Qtde Minima e armazene em QTDEMINIMA
+   Digite o valor de Qtde Maxima e armazene em QTDEMAXIMA
+   Faça ESTOQUEMEDIO = (QTDEMINIMA + QTDEMAXIMA) / 2
+   Mostre ESTOQUEMEDIO
+FimAlgoritmo
+
+
+
+
+
+
+		    Teste de Mesa
+
+
+	QTDEMINIMA	QTDEMAXIMA	ESTOQUEMEDIO
+
+	    2		    4		    3
+	    20		   100		    60
