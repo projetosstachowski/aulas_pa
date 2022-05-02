@@ -1,0 +1,16 @@
+Algoritmo CalculaQuadrado
+   Digite um número e armazene em n1
+   Digite um número e armazene em n2
+   Digite um número e armazene em n3
+   Digite um número e armazene em n4
+   Faça total = (n1*n1) + (n2*n2) + (n3*n3) + (n4*n4)
+   Mostre total
+
+
+
+		Teste de Mesa
+
+
+	n1	n2	n3	n4	total
+
+	2	4	5	6	 81
