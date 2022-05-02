@@ -1,0 +1,17 @@
+Algoritmo ConverteDolar
+   Digite o valor de "cotacao" e armazene em cotacao
+   Digite o valor de "valor_reais" e armazene em valor_reais
+   Faça valor_em_dolar = valor_reais / cotacao
+   Mostre valor_em_dolar
+FimAlgoritmo
+
+
+
+
+               Teste de Mesa
+
+
+	cotacao		valor_reais	 valor_em_dolar
+
+	  4,5		   100		    22,22
+	   5		   100		     20
