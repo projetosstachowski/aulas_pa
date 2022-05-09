@@ -1,0 +1,18 @@
+Algoritmo Calcula_Comissao
+   Digite o valor unitário da peça e armazene em valor_peca
+   Digite a quantidade de peças vendidas e armazene em qtde_peca
+   Faça total_venda = valor_peca * qtde_peca
+   Faça comissao = total_venda * 0.05
+   Mostre total_venda e comissao
+FimAlgoritmo
+
+
+
+
+
+
+			Teste de Mesa
+
+	valor_peca	qtde_peca	total_venda	comissao
+
+	    2.5		   200		    500		   25
