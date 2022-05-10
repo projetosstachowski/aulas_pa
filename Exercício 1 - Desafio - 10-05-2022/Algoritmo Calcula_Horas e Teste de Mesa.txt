@@ -1,0 +1,18 @@
+Algoritmo Calcula_Horas
+   Digite a hora e armazene em hora
+   Digite os minutos e armazene em minuto
+   Faça hora_total = hora + (minuto / 2)
+   Mostre hora_total
+FimAlgoritmo
+
+
+
+
+
+
+			Teste de Mesa
+
+	hora		minuto		hora_total
+
+	 3		  40		   3.67
+	 1		  32		   1.52
