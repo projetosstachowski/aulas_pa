@@ -1,0 +1,19 @@
+Algoritmo Calcula_Hora_Extra
+   Digite a hora e armazene em hora
+   Digite os minutos e armazene em minuto
+   Digite o salário por hora e armazene em salario_hora
+   Faça hora_total = hora + (minuto / 2)
+   Faça salario = salario_hora * hora_total
+   Faça salario_total = salario * 1,7
+   Mostre salario_total
+FimAlgoritmo
+
+
+
+
+			Teste de Mesa
+
+	hora		minuto		salario_hora		salario_total
+
+	 15		  45		     25			  669,37
+	 20		  0		     25			  850,00
