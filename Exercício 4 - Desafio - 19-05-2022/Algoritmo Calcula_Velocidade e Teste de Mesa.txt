@@ -1,0 +1,22 @@
+Algoritmo Calcula_Velocidade
+   Digite a quantidade de quilômetros e armazene em km
+   Digite a quantidade de horas e armazene em hora
+   Digite a quantidade de minutos e armazene em minuto
+   Faça hora_total = hora + ( minuto / 60 )
+   Faça km_por_hora = km / hora_total
+   Mostre km_por_hora
+FimAlgoritmo
+
+
+
+		Teste de Mesa
+
+km: 150
+
+hora: 1
+
+minuto: 13
+
+
+
+km_por_hora: 122
