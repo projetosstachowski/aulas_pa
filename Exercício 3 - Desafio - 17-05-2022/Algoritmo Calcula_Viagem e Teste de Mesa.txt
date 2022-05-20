@@ -1,0 +1,26 @@
+Algoritmo Calcula_Viagem
+   Digite os quilômetros a percorrer e armazene em km_a_percorrer
+   Digite os quilômetros por litro e armazene em km_por_litro
+   Digite o preço da gasolina e armazene em preco_gasolina
+   Faça total_litros = km_a_percorrer / km_por_litro
+   Faça preco_ida = preco_gasolina * total_litros
+   Faça preco_ida_volta = preco_ida * 2
+   Mostre preco_ida e preco_ida_volta
+FimAlgoritmo
+
+
+
+		Teste de Mesa
+
+
+km_a_percorrer: 450
+
+km_por_litro: 10
+
+preco_gasolina: 4,50
+
+
+
+preco_ida: 202
+
+preco_ida_volta: 404
