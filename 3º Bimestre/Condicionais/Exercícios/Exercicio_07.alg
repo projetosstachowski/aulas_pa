@@ -33,7 +33,7 @@ senao
          se (salario >= 3751.06) e (salario <= 4664.68) entao
             escreval("Você deverá pagar R$",(salario * 0.225)," de seu salário de imposto de renda. Irá sobrar R$",(salario - (salario * 0.225))," de seu salário.")
          senao
-            escreval("Você deverá pagar R$",(salario * 0.275)," de seu salário de imposto de renda. Irá sobrar R$",(salario - (salario * 0.0275))," de seu salário.")
+            escreval("Você deverá pagar R$",(salario * 0.275)," de seu salário de imposto de renda. Irá sobrar R$",(salario - (salario * 0.275))," de seu salário.")
          fimse
       fimse
    fimse
